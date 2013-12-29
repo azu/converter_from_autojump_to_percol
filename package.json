@@ -1,0 +1,26 @@
+{
+  "name": "converter_from_autojump_to_percol",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/azu/converter_from_autojump_to_percol.git"
+  },
+  "keywords": [
+    "autojump",
+    "zsh"
+  ],
+  "author": "azu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/azu/converter_from_autojump_to_percol/issues"
+  },
+  "homepage": "https://github.com/azu/converter_from_autojump_to_percol",
+  "dependencies": {
+    "event-stream": "~3.0.20"
+  }
+}
