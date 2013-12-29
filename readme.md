@@ -7,6 +7,7 @@ Convert [autojump](https://github.com/joelthelion/autojump "autojump") db.txt to
 ## Usage
 
 ``` sh
+npm install
 node index.js /path/to/autojump.txt > .cd_history_file
 ```
 
