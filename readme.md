@@ -1,6 +1,6 @@
 # converter_from_autojump_to_percol
 
-Convert [autojump](https://github.com/joelthelion/autojump "autojump") db.txt to percol autojump.
+Convert [autojump](https://github.com/joelthelion/autojump "autojump") db.txt to `.cd_history_file` for percol.
 
 * [percol で z / autojump のようにディレクトリ高速ジャンプ - Slip Ahead Logging](http://stillpedant.hatenablog.com/entry/percol-cd-history "percol で z / autojump のようにディレクトリ高速ジャンプ - Slip Ahead Logging")
 
