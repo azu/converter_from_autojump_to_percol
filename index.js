@@ -3,7 +3,7 @@ var es = require('event-stream');
 var path = require("path");
 var autojumpDB = process.argv[2];
 if (autojumpDB == null) {
-    throw new Error("Usage : node index.jh /path/to/autojump.txt");
+    throw new Error("Usage : node index.js /path/to/autojump.txt");
 }
 
 /**
